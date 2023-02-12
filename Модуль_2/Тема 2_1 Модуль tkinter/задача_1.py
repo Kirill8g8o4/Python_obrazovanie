@@ -11,4 +11,3 @@ while p != i:
         print('+')
     counter += 1
 print('Молодец, угадал! Количество попыток', counter)
-print(i)
