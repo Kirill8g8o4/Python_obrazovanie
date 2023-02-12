@@ -1,0 +1,10 @@
+import random
+random.seed(9056)
+a = random.randint(1,15)
+b = random.choice([1,3,6,7,8,9,15,23])
+c = random.uniform(1,20)
+d = random.random()
+print(a)
+print(b)
+print(c)
+print(d)
